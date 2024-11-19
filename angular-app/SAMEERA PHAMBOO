@@ -1,0 +1,5 @@
+git clone https://github.com/<SAMEERA-PHAMBOO>/my-static-web-app
+cd my-static-web-app
+cd angular-app
+npm install
+npm start
